@@ -1,6 +1,6 @@
 # rusthttp
 
-A very small experimental http server written in Rust with an embedded website.
+A very small experimental http server written in Rust with an embedded website in the server.rs file itself.
 
 Once the server is running, you can access it through your web browser by visiting `http://127.0.0.1:8080/`
 
